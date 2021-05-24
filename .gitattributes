@@ -1,0 +1,4 @@
+# sets attributes on files; in particular, set the 'export-ignore' attribute on this file, the .gitignore file, and the plugin maker
+.gitattributes export-ignore
+.gitignore export-ignore
+make-plugin.sh export-ignore
